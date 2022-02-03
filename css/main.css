@@ -1,0 +1,49 @@
+
+
+h1 {
+    color: #00bebb;
+}
+
+h2 {
+    color: #00bebb;
+}
+
+.fraseHome {
+    font-size: 30px;
+    margin-top: 3%;
+}
+
+.cardsHome {
+    padding: 0%;
+    font-weight: bold;
+    color: #575757;
+}
+
+.sobreNosotros {
+    font-weight: bold;
+    font-size: 28px;
+    text-align: right;
+    padding-right: 2%;
+    color:#00bebb;
+}
+
+h3 {
+    color: #00bebb;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.charlemos {
+    color: #00bebb;
+    font-size: 30px;
+}
+
+.iconFB {
+    width: 30%;
+    margin-top: 15%;
+}
+
+.iconIG {
+    width: 30%;
+    margin-top: 9%;
+}
